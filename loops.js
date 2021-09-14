@@ -16,3 +16,7 @@ while (i < students.length) {
     console.log(students[i]);
     i++;  
 }
+
+for (var j = 0; j < students.length; j++) {
+    console.log(students[j]);
+}
